@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Mac system files
+.DS_Store
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# npm debug files
+npm-debug.log*
