@@ -13,9 +13,10 @@ Este es un proyecto básico que utiliza Express para levantar un servidor y mane
 2. Navega al directorio del proyecto.
 3. Ejecuta el siguiente comando para instalar las dependencias necesarias:
 
-   ```sh
-   npm install
-    ```
+```sh
+npm init -y
+npm install express
+```
 Para iniciar el servidor, ejecuta el siguiente comando:
 
  ```sh
@@ -39,13 +40,6 @@ mi-servidor-express/
 ├── package.json
 └── package-lock.json
  ```
-Contribución
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -am 'Agrega una nueva funcionalidad').
-Empuja tus cambios a la rama (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. 
